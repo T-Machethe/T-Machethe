@@ -58,11 +58,11 @@ My work focuses on transforming plant data into actionable insights that improve
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=T-Machethe&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api?username=T-Machethe&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1)
 
 ![](https://streak-stats.demolab.com?user=T-Machethe&theme=graywhite&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Machethe&theme=graywhite&hide_border=false&layout=compact&count_private=true&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Machethe&theme=graywhite&hide_border=false&layout=compact&count_private=true&cache_seconds=1)
 
 ---
 
