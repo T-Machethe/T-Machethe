@@ -54,15 +54,6 @@ My work focuses on transforming plant data into actionable insights that improve
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=T-Machethe&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1)
-
-![](https://streak-stats.demolab.com?user=T-Machethe&theme=graywhite&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Machethe&theme=graywhite&hide_border=false&layout=compact&count_private=true&cache_seconds=1)
 
 ---
 
