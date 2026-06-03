@@ -23,11 +23,6 @@ My work focuses on transforming plant data into actionable insights that improve
 - Industrial data platforms and lightweight decision-support applications
 - Advanced process control and digital transformation in mining
 
-### Portfolio
-
-🔗 https://datascienceportfol.io/tumelomachethe40
-
----
 
 ## 🌐 Connect With Me
 
